@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tasca1_ImatgeiSo</string>
+    <string name="fadeIn">Fade In</string>
+    <string name="fadeOut">Fade Out</string>
+    <string name="zoomIn">Zoom In</string>
+    <string name="zoomOut">Zoom Out</string>
+    <string name="leftRight">Left Right</string>
+    <string name="topBottom">Top Bottom</string>
+    <string name="bounce">Bounce</string>
+    <string name="flash">Flash</string>
+    <string name="rotate">Rotate</string>
+    <string name="allTogether">All Together</string>
+    <string name="speed">Speed</string>
+</resources>
